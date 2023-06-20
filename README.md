@@ -1,5 +1,5 @@
 # Entrega do projeto M1
-Nesse projeto, fui responsável por fazer a parte do programa, relacionada a empréstimos. Vou deixar meu código .py pra vocês olharem.
+Nesse projeto, fui responsável por fazer a parte do programa em python, relacionado a empréstimos.
 
 Data Analytics - Módulo 1
 PROJETO DE ENCERRAMENTO DO MÓDULO:
